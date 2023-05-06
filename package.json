@@ -1,0 +1,19 @@
+{
+  "name": "openai-api-by-nodejs",
+  "version": "1.0.0",
+  "description": "用NodeJS实现OpenAI的相关接口",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaosaturn/nodejs-openai-api.git"
+  },
+  "author": "MasterH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaosaturn/nodejs-openai-api/issues"
+  },
+  "homepage": "https://github.com/xiaosaturn/nodejs-openai-api#readme"
+}

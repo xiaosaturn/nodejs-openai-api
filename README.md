@@ -1,1 +1,1 @@
-# nodejs-openai-api
+# 用NodeJS实现OpenAI的相关接口
